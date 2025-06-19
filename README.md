@@ -4,14 +4,6 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Anvid31/Anvid31/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Anvid31/Anvid31/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Anvid31/Anvid31/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
 <p align="center">I am a dedicated Full-Stack Developer and Automation Specialist with extensive experience in building robust applications and integrating cutting-edge technologies. My core expertise lies in designing modular backend systems and dynamic frontend interfaces</p>
 
 ###
